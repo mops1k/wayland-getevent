@@ -41,3 +41,5 @@ Run make to build the client binary
 A script build.sh is included to download all dependencies and build a static binary without requiring libxkbcommon, wayland to be installed on system. Requires meson and ninja.
 
     $ ./build.sh
+
+(For build a client)
